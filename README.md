@@ -1,4 +1,4 @@
-# Landing Page - Ambientes únicos para você
+# Landing Page - Trabalhos
 Stage 03 - Projeto 05: Avançando no HTML e CSS - Explorer RocketSeat
 
 ![Imgur](https://i.imgur.com/ADSLOAe.jpg)
